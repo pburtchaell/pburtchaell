@@ -3,6 +3,6 @@
 - I'm a product designer and software developer
 - I currently work on privacy, E2EE and wellbeing at Messenger
 - I also maintain a few open source projects for React & Redux
-- I live in San Francisco and I'm originally from New Orleans
+- I'm based in San Francisco and originally from New Orleans
 - I have a B.Des and went to school at Loyola University New Orleans
 - Ask me anything! My [Twitter DMs](https://twitter.com/pburtchaell) and email are always open
